@@ -1,0 +1,8 @@
+E:\LuuDuLieuSinhVien\2001190840_LeHoangNhatThong\nhatthong_tuan13\dethi_thu\quanlythongtin\quanlythongtin\bin\Debug\quanlythongtin.exe.config
+E:\LuuDuLieuSinhVien\2001190840_LeHoangNhatThong\nhatthong_tuan13\dethi_thu\quanlythongtin\quanlythongtin\bin\Debug\quanlythongtin.exe
+E:\LuuDuLieuSinhVien\2001190840_LeHoangNhatThong\nhatthong_tuan13\dethi_thu\quanlythongtin\quanlythongtin\bin\Debug\quanlythongtin.pdb
+E:\LuuDuLieuSinhVien\2001190840_LeHoangNhatThong\nhatthong_tuan13\dethi_thu\quanlythongtin\quanlythongtin\obj\Debug\quanlythongtin.Form1.resources
+E:\LuuDuLieuSinhVien\2001190840_LeHoangNhatThong\nhatthong_tuan13\dethi_thu\quanlythongtin\quanlythongtin\obj\Debug\quanlythongtin.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\2001190840_LeHoangNhatThong\nhatthong_tuan13\dethi_thu\quanlythongtin\quanlythongtin\obj\Debug\quanlythongtin.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\2001190840_LeHoangNhatThong\nhatthong_tuan13\dethi_thu\quanlythongtin\quanlythongtin\obj\Debug\quanlythongtin.exe
+E:\LuuDuLieuSinhVien\2001190840_LeHoangNhatThong\nhatthong_tuan13\dethi_thu\quanlythongtin\quanlythongtin\obj\Debug\quanlythongtin.pdb
